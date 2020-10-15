@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px) {
+    .carousel-caption{
+        position: initial;
+    }
+
+}
+footer{
+    background-color: #006DD3;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
